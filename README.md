@@ -13,9 +13,9 @@ The repository includes two main folders:
   - Dimensionality reduction and clustering (e.g., UMAP, PCA)
   - Visualization (e.g., violin plots, dot plots)
   - Correlation and enrichment analysis
+  - Non-negative Matrix Factorization (NMF)-based module detection
+  - Spatial transcriptomics analysis (e.g., cell type deconvolution)
 
 - `R_scripts/`: Contains code written in **R**, used for:
-  - Seurat-based analysis
-  - Complex heatmaps
-  - Survival analysis
-  - Custom statistical plotting
+  - Visualization
+  - NicheNetR
