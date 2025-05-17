@@ -12,7 +12,7 @@ The repository includes two main folders:
   - Single-cell RNA-seq preprocessing
   - Dimensionality reduction and clustering (e.g., UMAP, PCA)
   - Visualization (e.g., violin plots, dot plots)
-  - Correlation and enrichment analysis
+  - Enrichment analysis
   - Non-negative Matrix Factorization (NMF)-based module detection
   - Spatial transcriptomics analysis (e.g., cell type deconvolution)
 
